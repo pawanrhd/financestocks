@@ -1,27 +1,12 @@
-# FinanceReactNative
-
-[![Dependency Status](https://david-dm.org/7kfpun/FinanceReactNative.svg)](https://david-dm.org/7kfpun/FinanceReactNative) [![devDependency Status](https://david-dm.org/7kfpun/FinanceReactNative/dev-status.svg)](https://david-dm.org/7kfpun/FinanceReactNative#info=devDependencies)
+# Financestocks
 
 iOS's Stocks App clone written in [React Native](https://github.com/facebook/react-native) for demo purpose (available both iOS and Android). Data is pulled from [Yahoo Finance](finance.yahoo.com).
-
-## Demo
-
-[![Play Store Button](google-play.png "Google Play Button")](https://play.google.com/store/apps/details?id=com.kfpun.finance)
-[![Apk Download Button](apk-download.png "Apk Download Button")](https://github.com/7kfpun/FinanceReactNative/releases/download/v1.0.2/app-release.apk)
-
-* Rejected by Apple reviewer :smile:: "Your app is too similar to App**le** Stock app, which creates a misleading association with Apple products."
 
 ## App preview
 
 ![Preview](previewIOS.gif "iOS app preview")
 ![Preview](previewAndroid.gif "Android app preview")
 
-
-## Screenshots
-
-<img src="https://raw.github.com/7kfpun/FinanceReactNative/master/screenshots/screenshot0.png" width="280"> <img src="https://raw.github.com/7kfpun/FinanceReactNative/master/screenshots/screenshot1.png" width="280"> <img src="https://raw.github.com/7kfpun/FinanceReactNative/master/screenshots/screenshot2.png" width="280">
-
-<img src="https://raw.github.com/7kfpun/FinanceReactNative/master/screenshots/screenshot3.png" width="280"> <img src="https://raw.github.com/7kfpun/FinanceReactNative/master/screenshots/screenshot4.png" width="280"> <img src="https://raw.github.com/7kfpun/FinanceReactNative/master/screenshots/screenshot5.png" width="280">
 
 ## React and React Native version
 
@@ -62,8 +47,8 @@ iOS's Stocks App clone written in [React Native](https://github.com/facebook/rea
 
 #### Clone & install
 
-* Clone this repo `git clone git@github.com:7kfpun/FinanceReactNative.git`
-* `cd FinanceReactNative`
+* Clone this repo `git clone git@github.com/pawanrhd/financestocks.git`
+* `cd Financestocks`
 * run `npm install`
 
 #### iOS
@@ -75,9 +60,6 @@ iOS's Stocks App clone written in [React Native](https://github.com/facebook/rea
 * Run `android avd` and start an emulator
 * Run `react-native run-android`
 
-## Related project
-
-* [FinanceMacOSReactNative](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar supported. Data is pulled from [Yahoo Finance](finance.yahoo.com).
 
 ## License
 
